@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcelo Bezerra Barboza</title>
+    <link>http://localhost:1313/talks/</link>
+    <description>Recent content on Marcelo Bezerra Barboza</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 25 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Edit Multiple Files at Once With Vim</title>
+      <link>http://localhost:1313/talks/posts/edit-multiple-files-at-once-in-vim/</link>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/posts/edit-multiple-files-at-once-in-vim/</guid>
+      <description>Just the other day I engaged in an interesting project with my family. We grabbed the data about this TV Show from IMDb in order to create:&#xA;A PostgreSQL database A presentation in LaTeX using the Beamer document class A statically generated web site with Hugo Once the database was ready everything else was relatively easy thanks to Vim. For instance, to create the presentation we dumped a csv file from our database like this:</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/talks/about/</link>
+      <pubDate>Sat, 25 Nov 2023 10:59:16 -0300</pubDate>
+      <guid>http://localhost:1313/talks/about/</guid>
+      <description>Research Interests Differential Geometry Group Theory Address Universidade Federal de Goiás&#xA;Instituto de Matemática e Estatística&#xA;Campus Samambaia - R. Jacarandá - Chácaras Califórnia&#xA;Goiânia - Goiás&#xA;Zip Code: 74.001-970&#xA;Contact EMail bezerra [ at ] ufg [ dot ] br&#xA;ORCID 0000-0003-4258-4676</description>
+    </item>
+  </channel>
+</rss>
