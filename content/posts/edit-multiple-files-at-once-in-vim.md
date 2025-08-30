@@ -26,7 +26,7 @@ episode id;title;synopsis;release date;rate;votes
 we felt that an indeed very long substitute command will do the trick:
 
 ```vim
-:%s/^\([^;]\+\);\([^;]\+\);\([^;]\+\);\([^;]\+\);\([^;]\+\);\([^;]\+\)$/\\begin{frame}{\2}\r\\begin{table}\r\\centering\r\\begin{tabular}{llll}\r\\textbf{Episode} \& \\texttt{\1} \& \\textbf{Votes} \& \\texttt{\6} \\\\\r\\textbf{Release} \& \\texttt{\4} \& \\textbf{Rate} \& \\texttt{\5}\r\\end{tabular}\r\\end{table}\r\\begin{synopsys}\r\3\r\\end{synopsys}\r\\end{frame}\r/
+:%s/^\([^;]\+\);\([^;]\+\);\([^;]\+\);\([^;]\+\);\([^;]\+\);\([^;]\+\)$/\\begin{frame}{\2}\r\\begin{table}\r\\centering\r\\begin{tabular}{llll}\r\\textbf{Episode} \& \\texttt{\1} \& \\textbf{Votes} \& \\texttt{\6} \\\\\r\\textbf{Release} \& \\texttt{\4} \& \\textbf{Rate} \& \\texttt{\5}\r\\end{tabular}\r\\end{table}\r\\begin{synopsis}\r\3\r\\end{synopsis}\r\\end{frame}\r/
 ```
 
 And just like that the frames for all 217 episodes were created. We then added a minimal preamble to the document containing that custom environment we called `synopsis`. Next we formatted the [LaTeX][] source code with the normal mode command `gg=G`, saved and compiled it in order to produce a `PDF` file.
