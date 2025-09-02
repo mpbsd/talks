@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multiple Lines Editing on Marcelo Bezerra Barboza</title>
+    <link>http://localhost:1313/talks/tags/multiple-lines-editing/</link>
+    <description>Recent content in Multiple Lines Editing on Marcelo Bezerra Barboza</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/talks/tags/multiple-lines-editing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Edit Multiple Lines at Once With Vim</title>
+      <link>http://localhost:1313/talks/posts/edit-multiple-lines-at-once-with-vim/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/posts/edit-multiple-lines-at-once-with-vim/</guid>
+      <description>In this post I want to explain how to sort the lines of a csv file while keeping related lines close to one another.&#xA;My friends organize and promote a mathematics competition called OMEG. Every year I help them to keep the list of its participants up to date. It&amp;rsquo;s a csv file whose fields have the following meaning: inep code, full name and exam level (it&amp;rsquo;s an ordinal number, either 1, 2, or 3).</description>
+    </item>
+  </channel>
+</rss>

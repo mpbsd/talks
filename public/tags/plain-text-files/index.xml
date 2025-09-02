@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/talks/tags/plain-text-files/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Edit Multiple Files at Once With Vim</title>
-      <link>http://localhost:1313/talks/posts/edit-multiple-files-at-once-in-vim/</link>
+      <link>http://localhost:1313/talks/posts/edit-multiple-files-at-once-with-vim/</link>
       <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/posts/edit-multiple-files-at-once-in-vim/</guid>
+      <guid>http://localhost:1313/talks/posts/edit-multiple-files-at-once-with-vim/</guid>
       <description>Just the other day I engaged in an interesting project with my family. We grabbed the data about this TV Show from IMDb in order to create:&#xA;A PostgreSQL database A presentation in LaTeX using the Beamer document class A statically generated web site with Hugo Once the database was ready everything else was relatively easy thanks to Vim. For instance, to create the presentation we dumped a csv file from our database like this:</description>
     </item>
   </channel>
