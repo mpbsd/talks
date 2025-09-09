@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Marcelo Bezerra Barboza</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/talks/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Combining Macros With Conditional Statements in Vim</title>
+      <link>http://localhost:1313/talks/posts/combining-macros-with-conditional-statements-in-vim/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/posts/combining-macros-with-conditional-statements-in-vim/</guid>
+      <description>In this post I&amp;rsquo;ll explain how I use Vim to insert data fields in a json file with data gathered from a csv file.&#xA;Suppose we have a json file with hundreds of entries like this:&#xA;&amp;#34;01234567891&amp;#34;: { &amp;#34;fname&amp;#34;: &amp;#34;john smith&amp;#34;, &amp;#34;level&amp;#34;: 2, &amp;#34;email&amp;#34;: &amp;#34;john.smith@server.net&amp;#34;, &amp;#34;award&amp;#34;: &amp;#34;none&amp;#34; } Now, suppose that a third party gives us a csv file with the awards for some of the people in our csv, possibly not all of them.</description>
+    </item>
     <item>
       <title>Edit Multiple Lines at Once With Vim</title>
       <link>http://localhost:1313/talks/posts/edit-multiple-lines-at-once-with-vim/</link>

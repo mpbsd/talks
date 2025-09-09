@@ -2,28 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/talks/posts/edit-multiple-lines-at-once-with-vim/</loc>
-    <lastmod>2025-09-02T15:04:32-03:00</lastmod>
+    <loc>http://localhost:1313/talks/posts/combining-macros-with-conditional-statements-in-vim/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/talks/</loc>
-    <lastmod>2025-09-02T15:04:32-03:00</lastmod>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/talks/tags/plain-text-files/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/talks/posts/</loc>
-    <lastmod>2025-09-02T15:04:32-03:00</lastmod>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/talks/tags/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/talks/tags/vim-text-editor/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/talks/posts/edit-multiple-lines-at-once-with-vim/</loc>
+    <lastmod>2025-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/talks/tags/multiple-lines-editing/</loc>
+    <lastmod>2025-09-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/talks/posts/edit-multiple-files-at-once-with-vim/</loc>
     <lastmod>2025-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/talks/tags/multiple-files-editing/</loc>
-    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/talks/tags/plain-text-files/</loc>
-    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/talks/tags/</loc>
-    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/talks/tags/vim-text-editor/</loc>
     <lastmod>2025-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/talks/about/</loc>

@@ -1,7 +1,7 @@
 ---
 title: "Edit Multiple Lines at Once With Vim"
 date: "2025-09-02"
-tags: ["plain text files", "multiple lines editing", "Vim Text Editor"]
+tags: ["plain text files", "multiple lines editing", "vim text editor"]
 draft: false
 ---
 
