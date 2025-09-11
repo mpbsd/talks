@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/talks/posts/find-all-ocurrences-of-a-certain-patttern-in-pdf-files/</loc>
+    <lastmod>2025-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/talks/</loc>
+    <lastmod>2025-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/talks/posts/</loc>
+    <lastmod>2025-09-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/talks/posts/combining-macros-with-conditional-statements-in-vim/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/talks/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/talks/tags/plain-text-files/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/talks/posts/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/talks/tags/</loc>

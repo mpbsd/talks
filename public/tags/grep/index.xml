@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grep on Marcelo Bezerra Barboza</title>
+    <link>http://localhost:1313/talks/tags/grep/</link>
+    <description>Recent content in Grep on Marcelo Bezerra Barboza</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 11 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/talks/tags/grep/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Find All Ocurrences of a Certain Patttern in PDF Files</title>
+      <link>http://localhost:1313/talks/posts/find-all-ocurrences-of-a-certain-patttern-in-pdf-files/</link>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/posts/find-all-ocurrences-of-a-certain-patttern-in-pdf-files/</guid>
+      <description>Today a very good friend of mine and I were looking for a certain pattern of text within 10 or so PDF documents. We were both hoping to find what we were looking for as soon as possible, so that we could move on to the next task. Suddenly we faced ourselves with the question of whether we had found all occurrences of what we were looking for. Vim to the rescue, I say!</description>
+    </item>
+  </channel>
+</rss>

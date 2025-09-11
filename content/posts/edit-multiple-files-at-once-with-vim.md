@@ -1,7 +1,7 @@
 ---
 title: "Edit Multiple Files at Once With Vim"
 date: "2025-07-25"
-tags: ["plain text files", "multiple files editing", "vim text editor"]
+tags: ["plain text files", "vim text editor", "multiple files editing"]
 draft: false
 ---
 
